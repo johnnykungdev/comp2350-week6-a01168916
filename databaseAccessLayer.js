@@ -15,4 +15,4 @@ function getAllUsers(callback) {
 }
 
 
-module.exports = {getAllTodos}
+module.exports = {getAllUsers}
